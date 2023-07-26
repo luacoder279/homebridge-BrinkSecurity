@@ -1,6 +1,6 @@
 {
   "name": "homebridge-securitysystem",
-  "displayName": "Homebridge Security System",
+  "displayName": "Brink Security",
   "version": "7.5.1",
   "description": "Homebridge plugin that creates a security system accessory that can be triggered by HomeKit sensors.",
   "main": "src/index.js",
@@ -21,7 +21,7 @@
     "type": "git",
     "url": "git://github.com/MiguelRipoll23/homebridge-securitysystem.git"
   },
-  "author": "MiguelRipoll23",
+  "author": "Ajw",
   "license": "MIT",
   "bugs": {
     "url": "http://github.com/MiguelRipoll23/homebridge-securitysystem/issues"
